@@ -4,7 +4,7 @@
 	'type' : 1,
 	'index' :1,
 	'icon' :'img/blue.png',
-	'address': '四川成都一环路南一段1号',
+	'address': '柳州市鱼峰区东环大道与箭盘路东一巷交叉口南230米中国建设银行西300米',
 	'state': 1,
 	'cpu': '30%',
 	'subDistricts' : []
