@@ -1,6 +1,6 @@
 ﻿var data = [{
-	'name' : '鸿禧花园',
-	'center' : '109.428526,24.320249',
+	'name' : '客家肠粉王',
+	'center' : '109.437419,24.306808',
 	'type' : 1,
 	'index' :1,
 	'icon' :'img/blue.png',
