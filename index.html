@@ -65,7 +65,7 @@
 //        content.push('ID：'+data[i].index);
         content.push('地址：'+data[i].address);
 	content.push('电话:'+'<a href="tel:'+data[i].tel+'">'+data[i].tel+'</a>');
-	    	content.push('地址：'+'<a class="openAmap" href="javascript: void(0)">123321</a>');
+	content.push('地址：'+'<a class="openAmap" href="javascript: marker.on(openAmap);">123321</a>');
         marker.content = content;
         marker.title = data[i].index+"."+data[i].name;     //标记点的title
 
