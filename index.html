@@ -45,9 +45,10 @@
         });
 	
         content = [];
-	content.push('点击'+data[i].url);
+	content.push('点击'+'<a href="'+data[i].url+'">详情</a>');
 //        content.push('ID：'+data[i].index);
         content.push('地址：'+data[i].address);
+	content.push('电话:'+'<a href="tel:'+data[i].tel+'">'+data[i].tel+'</a>');
         marker.content = content;
         marker.title = data[i].index+"."+data[i].name;     //标记点的title
 
