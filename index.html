@@ -65,7 +65,7 @@
 //        content.push('ID：'+data[i].index);
         content.push('地址：'+data[i].address);
 	content.push('电话:'+'<a href="tel:'+data[i].tel+'">'+data[i].tel+'</a>');
-	content.push('地址：'+'<a href="javascript: map.setFitView();function openAmap(e){e.target.markOnAMAP({name:e.target.title,position:e.target.getPosition()})}">9999991</a>');
+	content.push('地址：'+'<a href="javascript: marker.on(openAmap);map.setFitView();function openAmap(e){e.target.markOnAMAP({name:e.target.title,position:e.target.getPosition()})}">999881</a>');
 	marker.content = content;
         marker.title = data[i].index+"."+data[i].name;     //标记点的title
 
