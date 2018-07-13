@@ -11,6 +11,6 @@ var data = [
 	{'name' : '姚记冰渣豆腐花','center' : '109.410478,24.329726','tel' : '' ,'index' :1,'address': '营业时间：','url': 'https://mp.weixin.qq.com/s/aI9Xz0Z_jAMlwvWwA0YGPQ'},	
 	{'name' : '桂林米粉','center' : '109.377903,24.263784','tel' : '' ,'index' :1,'address': '地图上的名字是旺仔桂林米粉','url': 'https://mp.weixin.qq.com/s/aI9Xz0Z_jAMlwvWwA0YGPQ'},	
 	{'name' : '黃仔螺蛳粉','center' : '109.377896,24.263094','tel' : '' ,'index' :1,'address': '营业时间：','url': 'https://mp.weixin.qq.com/s/aI9Xz0Z_jAMlwvWwA0YGPQ'},	
-	
+	{'name' : '锦记石磨肠粉（古亭山店)','center' : '109.49202,24.316819','tel' : '15878277903' ,'index' :1,'address': '营业时间：6：00—18：00','url': 'https://mp.weixin.qq.com/s/x5ixeRbMFEDR9-HLn4kayw'},
 
 ];
