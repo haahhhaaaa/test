@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
-    <title>多点标注</title>
+    <title>20180714</title>
     <link rel="stylesheet" href="https://cache.amap.com/lbs/static/main1119.css"/>
     <script src="https://webapi.amap.com/maps?v=1.3&key="></script>   <!--引入高德地图api，key为你自己获取的key值-->
     <script type="text/javascript" src="https://cache.amap.com/lbs/static/addToolbar.js"></script>
@@ -61,7 +61,7 @@
         });
 	
         content = [];
-	content.push('<a href="'+data[i].url+'">点击了解详情</a>');
+	content.push(data[i].name+'<a target="_blank" href="'+data[i].url+'">点击了解详情</a>');
 //        content.push('ID：'+data[i].index);
         content.push('地址：'+data[i].address);
 	content.push('电话:'+'<a href="tel:'+data[i].tel+'">'+data[i].tel+'</a>');
@@ -82,9 +82,13 @@
         marker.on('dblclick',openAmap);     //这里采用调到新页面方式导航，也可直接定义带导航功能的信息窗体，请参考http://lbs.amap.com/api/javascript-api/example/infowindow/infowindow-has-search-function/
         //给Marker绑定单击事件
         marker.on('click', markerClick);
+	 
     }
 
     map.setFitView();
+
+
+
     //跳至地图当中导航
     function openAmap(e){
         e.target.markOnAMAP({
@@ -99,10 +103,10 @@
     }
 
     //地图加载完成事件
-    map.on('complete', function() {
-        Materialize.toast('地图图块加载完毕！', 4000)
+//   map.on('complete', function() {
+  //      Materialize.toast('地图图块加载完毕！', 4000)
 //        document.getElementById('tip').innerHTML = "地图图块加载完毕！当前地图中心点为：" + data[0].name;
-    });
+//    });
 </script>
 </body>
 </html>
