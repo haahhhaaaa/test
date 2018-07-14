@@ -29,5 +29,8 @@ var data = [
 	{'name' : 'A＋臭豆腐','center' : '109.408367,24.313485','tel' : '' ,'index' :1,'address': '营业时间：10:00-23:00','url': 'https://mp.weixin.qq.com/s/KDOnl2VDJy5euSXwuz07Mg'},	
 	{'name' : '韩国炸鸡柳','center' : '109.409127,24.313469','tel' : '' ,'index' :1,'address': '营业时间：11:00-22:30','url': 'https://mp.weixin.qq.com/s/7y7ORSnN275EK4KaXt5JsA'},	
 	{'name' : 'NATURL多纯','center' : '109.41281,24.31321','tel' : '' ,'index' :1,'address': '营业时间：11:00~02:00','url': 'https://mp.weixin.qq.com/s/7y7ORSnN275EK4KaXt5JsA'},	
+	{'name' : '美玲米粉','center' : '109.405238,24.298564','tel' : '' ,'index' :1,'address': '营业时间：凌晨4:00-下午14:00','url': 'https://mp.weixin.qq.com/s/RX3BqzW17RFeszgd2PKrng'},	
+	{'name' : '柳机无名老店','center' : '109.446255,24.271883','tel' : '' ,'index' :1,'address': '营业时间：11:00~00:00','url': 'https://mp.weixin.qq.com/s/_125LhLxMCKWc6Ypn9_wiQ'},	
+	{'name' : '东大螺蛳粉店','center' : '109.425938,24.293829','tel' : '' ,'index' :1,'address': '营业时间：10:00-02:00','url': 'https://mp.weixin.qq.com/s/tIMihOSHix5KGcv8FktdzQ'},	
 	
 ];
