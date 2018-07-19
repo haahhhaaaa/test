@@ -38,7 +38,7 @@ var data = [
 	{'name' : '阿云香螺小吃店','center' : '109.407829,24.314299','tel' : '' ,'index' :1,'ico':'4.png','address': '柳州市城中区斜阳路西城巷','url': 'https://mp.weixin.qq.com/s/3Yl_my-VRApZW_OisZIhaA'},	
 	{'name' : '翠翠家螺蛳粉','center' : '109.407468,24.313353','tel' : '' ,'index' :1,'ico':'4.png','address': '柳州市细柳巷（老二中背后）37号','url': 'https://mp.weixin.qq.com/s/3Yl_my-VRApZW_OisZIhaA'},	
 	{'name' : '凡姐螺蛳粉','center' : '109.41467,24.311566','tel' : '' ,'index' :1,'ico':'4.png','address': '柳州市城中区罗池路黄竹巷16号','url': 'https://mp.weixin.qq.com/s/3Yl_my-VRApZW_OisZIhaA'},	
-	{'name' : '娇姐老牌螺蛳粉','center' : '109.405241,24.329797','tel' : '' ,'index' :1,'ico':'4.png','address': '每次克都挨排队','url': 'https://mp.weixin.qq.com/s/3Yl_my-VRApZW_OisZIhaA'},	
+	{'name' : '娇姐老牌螺蛳粉','center' : '109.405241,24.329797','tel' : '' ,'index' :1,'ico':'4.png','address': '每次克都挨排队','url': 'https://mp.weixin.qq.com/s/azGOpiR09fSj-IWQkUxkPA'},	
 	{'name' : '金记螺蛳粉(临江巷)','center' : '109.405447,24.314913','tel' : '' ,'index' :1,'ico':'4.png','address': '营业时间：11:00~02:00','url': 'https://mp.weixin.qq.com/s/3Yl_my-VRApZW_OisZIhaA'},	
 	{'name' : '顾家螺蛳粉(荣军路店)','center' : '109.420585,24.301972','tel' : '' ,'index' :1,'ico':'4.png','address': '营业时间：11:00~02:00','url': 'https://mp.weixin.qq.com/s/3Yl_my-VRApZW_OisZIhaA'},	
 	{'name' : '灯泡厂螺蛳粉','center' : '109.440672,24.316965','tel' : '' ,'index' :1,'ico':'4.png','address': '营业时间：11:00~02:00','url': 'https://mp.weixin.qq.com/s/3Yl_my-VRApZW_OisZIhaA'},	
