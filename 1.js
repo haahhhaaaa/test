@@ -97,6 +97,6 @@ var data = [
 	{'name' : '八卦岭吴记小笼包','center' : '109.410799,24.333388','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：','url': 'https://mp.weixin.qq.com/s?__biz=MzU4NTA1NjQ1NA==&mid=2247515931&idx=1&sn=f144da5b38c7277e926cd3977c34b9c4&chksm=fd9296b2cae51fa4e5e825739a1359886d668c8773a6d67f89bb0c266a11aa879b77cbe01921&scene=21#wechat_redirect'},	
 	{'name' : '煎饼果子','center' : '109.405934,24.296756','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：17:00~18:00','url': 'https://mp.weixin.qq.com/s/l0oBB2etLYsQGSsXOZbZ2w'},	
 	{'name' : '胖胖唐记猪脚粉 ','center' : '109.425205,24.337098','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：06:30-15:00 ','url': 'https://mp.weixin.qq.com/s/NSc8h26GoI8nGC98r0N0pQ'},	
-	{'name' : '无名粉店','center' : '109.385532,24.368589','tel' : '' ,'index' :1,'ico':'2.png','address': '没在招牌在糖烟店旁边','url': 'https'},
+	{'name' : '无名粉店','center' : '109.385532,24.368589','tel' : '' ,'index' :1,'ico':'2.png','address': '没有招牌在糖烟店旁边','url': 'https'},
 	
 ];
