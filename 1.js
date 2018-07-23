@@ -99,5 +99,6 @@ var data = [
 	{'name' : '胖胖唐记猪脚粉 ','center' : '109.425205,24.337098','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：06:30-15:00 ','url': 'https://mp.weixin.qq.com/s/NSc8h26GoI8nGC98r0N0pQ'},	
 	{'name' : '无名粉店','center' : '109.385532,24.368589','tel' : '' ,'index' :1,'ico':'2.png','address': '没有招牌在糖烟店旁边','url': 'https'},
 	{'name' : '一鲜螺蛳粉','center' : '109.413857,24.311455','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：8:00~02:00','url': 'https://mp.weixin.qq.com/s/GQRDPFppFhAGzghjdH4Ccg'},	
+	{'name' : '佘记姐妹美食馆','center' : '109.438606,24.296786','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：5:30-17:00','url': 'https://mp.weixin.qq.com/s/SO5vPXcdt-eTCYSjYEcUNg'},	
 	
 ];
