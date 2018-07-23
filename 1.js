@@ -94,7 +94,7 @@ var data = [
 	{'name' : '六品坊螺蛳粉','center' : '109.41337,24.314608','tel' : '' ,'index' :1,'ico':'4.png','address': '营业时间：11:00~02:00','url': 'https://mp.weixin.qq.com/s/3Yl_my-VRApZW_OisZIhaA'},	
 	{'name' : '芳姐米粉','center' : '109.39796,24.301103','tel' : '' ,'index' :1,'ico':'2.png','address': '红光小区1区4栋1楼 营业时间：7:00—14:00','url': 'https://mp.weixin.qq.com/s/AJXM1AeUjun4tq7oNXKtoQ'},	
 	{'name' : '八卦岭何记卷粉','center' : '109.410928,24.333685','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：7:00—14:00','url': 'https://mp.weixin.qq.com/s/ScyqOZVP9ygNNURij6X-5Q'},	
-	{'name' : '八卦岭吴记小笼包','center' : '109.410799,24.333388','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：','url': 'https://mp.weixin.qq.com/s?__biz=MzU4NTA1NjQ1NA==&mid=2247515931&idx=1&sn=f144da5b38c7277e926cd3977c34b9c4&chksm=fd9296b2cae51fa4e5e825739a1359886d668c8773a6d67f89bb0c266a11aa879b77cbe01921&scene=21#wechat_redirect'},	
+	{'name' : '八卦岭吴记小笼包','center' : '109.410799,24.333388','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：','url': 'https://mp.weixin.qq.com/s/ScyqOZVP9ygNNURij6X-5Q'},	
 	{'name' : '煎饼果子','center' : '109.405934,24.296756','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：17:00~18:00','url': 'https://mp.weixin.qq.com/s/l0oBB2etLYsQGSsXOZbZ2w'},	
 	{'name' : '胖胖唐记猪脚粉 ','center' : '109.425205,24.337098','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：06:30-15:00 ','url': 'https://mp.weixin.qq.com/s/NSc8h26GoI8nGC98r0N0pQ'},	
 	{'name' : '无名粉店','center' : '109.385532,24.368589','tel' : '' ,'index' :1,'ico':'2.png','address': '没有招牌在糖烟店旁边','url': 'https'},
