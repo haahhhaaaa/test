@@ -99,5 +99,6 @@ var data = [
 	{'name' : '箭盘第一卷','center' : '109.434359,24.303065','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：','url': 'https'},	
 	{'name' : '垚记卷粉','center' : '109.40821,24.31443','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：11:00~02:00','url': 'https'},	
 	{'name' : '华丰湾螺蛳粉','center' : '109.402821,24.305632','tel' : '13377200079' ,'index' :1,'ico':'2.png','address': '营业时间：8:30~16:00','url': 'https://mp.weixin.qq.com/s/XqsNZmXG2SKgH-Tm5e49LQ'},	
+	{'name' : '黄家卷粉','center' : '109.383933,24.318401','tel' : '' ,'index' :1,'ico':'2.png','address': '营业时间：11:00~02:00','url': 'https'},	
 	
 ];
